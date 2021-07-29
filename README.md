@@ -23,7 +23,7 @@ The following changes have been made to the Horiseon website code to make the pa
 
 ### Screenshot of deployed application in browser:
 
-![](C:\Users\ericd\repos\HoriseonHW1\assets\images\ericduwe.github.io_Homework1_Screenshot.png)
+![](./assets/images/ericduwe.github.io_Homework1_Screenshot.png)
 
 
 
